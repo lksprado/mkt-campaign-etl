@@ -4,3 +4,4 @@ poetry.lock
 tests
 raw/
 tempCodeRunnerFile.py
+processed/
